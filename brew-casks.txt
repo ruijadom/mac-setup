@@ -1,0 +1,12 @@
+iterm2
+raycast
+rectangle
+alt-tab
+android-file-transfer
+android-platform-tools
+discord
+vlc
+keka
+kap
+figma
+visual-studio-code
